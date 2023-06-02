@@ -9,3 +9,5 @@ As a developer, I want to create notes or code snippets with or without an inter
 N/A
 
 ## Usage
+
+Just head to the deployed application here: [link to deployed app will go here]
