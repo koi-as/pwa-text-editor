@@ -6,8 +6,14 @@ As a developer, I want to create notes or code snippets with or without an inter
 
 ## Installation
 
-N/A
+To install this project, click on the `install` button located in the top left corner of the application
+
+A popup asking if you would like to install the editor will show up. Click the `install` option.
+
+The application should automatically load onto your desktop now. It's really as simple as that!
 
 ## Usage
 
-Just head to the deployed application here: [link to deployed app will go here]
+First you need to open the text editor in the borswer. Here is a link to get there: [Click here](https://text-editor-application.herokuapp.com/)
+
+Next, you start typing... and that's it!
